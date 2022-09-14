@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💛 Contato
 
-sobrinhosergio00.com
+sobrinhosergio00@gmail.com
